@@ -1,3 +1,4 @@
 # ProShop
 
-Ebay clone
+MERN stack e-commerce app with Admin functionalties and Client functionalties.
+
